@@ -8,4 +8,6 @@ int lever = Convert.ToInt32(Console.ReadLine());
 switch (lever)
 {
     case 3: Console.WriteLine(a * b); break;
+        Console.WriteLine("DGFGGSDIGDGLI");
+        Console.WriteLine("DGFGGSDIGDGLI");
 }
