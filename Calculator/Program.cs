@@ -12,4 +12,7 @@ switch (lever)
     case 2:
         Console.WriteLine($"Ответ: {a - b}");
         break;
+    case 3: Console.WriteLine(a * b); 
+        break;
+
 }
