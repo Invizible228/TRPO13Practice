@@ -7,5 +7,8 @@ Console.Write("Выберите цифру:\n1 - '+'\n2 - '-'\n3 - '*'\n4 - '/'\
 int lever = Convert.ToInt32(Console.ReadLine());
 switch (lever)
 {
+
+
     
 }
+Console.WriteLine("Beeeeeee");
